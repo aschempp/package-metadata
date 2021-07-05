@@ -66,6 +66,7 @@ Edition
 Erdmann
 eMail
 Email
+ERP
 estao
 EstateManager
 EuF
@@ -290,6 +291,7 @@ Valhalla
 Vimeo
 virtualization
 vivenio
+VR
 Web
 Webfonts
 Westdeutsche
